@@ -145,7 +145,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 - Dr. Muhammad Hataba for guidance
 - John Ehab for technical support
-- The Cryptography course at GIU for the opportunity to develop this project
 
 ## References
 - [Zero-Knowledge Proofs Overview](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
