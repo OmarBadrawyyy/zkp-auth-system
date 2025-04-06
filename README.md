@@ -4,10 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Information
-- **Author**: Omar Ahmed Badrawy (ID: 10005368)
-- **Course**: ICS 505 Cryptography
-- **Instructor**: Dr. Muhammad Hataba (muhammad.hataba@giu-uni.de)
-- **Teaching Assistant**: John Ehab (john.ehab@giu-uni.de)
+- **Author**: Omar Ahmed Badrawy 
 - **Version**: 1.0.0
 
 ## Overview
