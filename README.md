@@ -113,32 +113,6 @@ The system collects and logs:
     "memory_usage": 32.5
 }
 ```
-
-## Troubleshooting
-1. **Server Connection Issues**
-   - Check if port 9998 is available
-   - Verify firewall settings
-   - Ensure server is running
-
-2. **Authentication Failures**
-   - Verify username/password format
-   - Check network connectivity
-   - Review server logs for errors
-
-3. **Performance Issues**
-   - Monitor system resources
-   - Check for concurrent connections
-   - Review metrics logs
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-### Development Guidelines
-1. Follow PEP 8 style guide
-2. Add tests for new features
-3. Update documentation
-4. Maintain backward compatibility
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
